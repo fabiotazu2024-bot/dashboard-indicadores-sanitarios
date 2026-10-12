@@ -1,0 +1,505 @@
+establecimiento,tipo_establecimiento,especialidad,mes,num_atenciones,pct_inasistencia,tiempo_espera_min,satisfaccion_usuario
+Posta de Salud San Martín,Posta de Salud,Medicina General,Enero,39,11.4,32,3.0
+Posta de Salud San Martín,Posta de Salud,Medicina General,Febrero,47,3.4,17,3.7
+Posta de Salud San Martín,Posta de Salud,Medicina General,Marzo,51,11.9,12,4.6
+Posta de Salud San Martín,Posta de Salud,Medicina General,Abril,56,8.6,28,3.5
+Posta de Salud San Martín,Posta de Salud,Medicina General,Mayo,41,13.3,5,3.8
+Posta de Salud San Martín,Posta de Salud,Medicina General,Junio,29,7.1,14,2.6
+Posta de Salud San Martín,Posta de Salud,Medicina General,Julio,25,13.2,27,4.3
+Posta de Salud San Martín,Posta de Salud,Medicina General,Agosto,35,15.5,38,4.5
+Posta de Salud San Martín,Posta de Salud,Medicina General,Septiembre,26,3.3,24,4.5
+Posta de Salud San Martín,Posta de Salud,Medicina General,Octubre,39,16.8,22,3.9
+Posta de Salud San Martín,Posta de Salud,Medicina General,Noviembre,42,13.1,14,4.9
+Posta de Salud San Martín,Posta de Salud,Medicina General,Diciembre,49,9.2,16,3.2
+Posta de Salud San Martín,Posta de Salud,Pediatría,Enero,44,4.9,16,4.2
+Posta de Salud San Martín,Posta de Salud,Pediatría,Febrero,45,14.9,5,4.3
+Posta de Salud San Martín,Posta de Salud,Pediatría,Marzo,38,18.6,16,4.8
+Posta de Salud San Martín,Posta de Salud,Pediatría,Abril,44,15.7,15,3.6
+Posta de Salud San Martín,Posta de Salud,Pediatría,Mayo,36,17.0,14,3.7
+Posta de Salud San Martín,Posta de Salud,Pediatría,Junio,51,14.6,16,4.0
+Posta de Salud San Martín,Posta de Salud,Pediatría,Julio,25,4.5,25,5.0
+Posta de Salud San Martín,Posta de Salud,Pediatría,Agosto,60,24.6,26,3.5
+Posta de Salud San Martín,Posta de Salud,Pediatría,Septiembre,50,6.0,5,4.1
+Posta de Salud San Martín,Posta de Salud,Pediatría,Octubre,50,15.5,38,4.3
+Posta de Salud San Martín,Posta de Salud,Pediatría,Noviembre,43,6.7,18,3.1
+Posta de Salud San Martín,Posta de Salud,Pediatría,Diciembre,36,21.5,22,4.0
+Posta de Salud San Martín,Posta de Salud,Ginecología,Enero,33,25.0,5,3.2
+Posta de Salud San Martín,Posta de Salud,Ginecología,Febrero,49,8.2,10,4.1
+Posta de Salud San Martín,Posta de Salud,Ginecología,Marzo,47,15.4,9,4.3
+Posta de Salud San Martín,Posta de Salud,Ginecología,Abril,27,7.4,8,4.0
+Posta de Salud San Martín,Posta de Salud,Ginecología,Mayo,36,7.2,20,3.2
+Posta de Salud San Martín,Posta de Salud,Ginecología,Junio,34,10.4,13,3.2
+Posta de Salud San Martín,Posta de Salud,Ginecología,Julio,27,17.5,5,4.0
+Posta de Salud San Martín,Posta de Salud,Ginecología,Agosto,31,8.5,5,3.8
+Posta de Salud San Martín,Posta de Salud,Ginecología,Septiembre,34,17.3,13,3.1
+Posta de Salud San Martín,Posta de Salud,Ginecología,Octubre,27,16.8,26,3.6
+Posta de Salud San Martín,Posta de Salud,Ginecología,Noviembre,56,13.3,16,4.1
+Posta de Salud San Martín,Posta de Salud,Ginecología,Diciembre,28,12.5,6,4.1
+Posta de Salud San Martín,Posta de Salud,Odontología,Enero,46,11.5,32,3.4
+Posta de Salud San Martín,Posta de Salud,Odontología,Febrero,45,11.4,6,4.2
+Posta de Salud San Martín,Posta de Salud,Odontología,Marzo,56,27.5,21,4.1
+Posta de Salud San Martín,Posta de Salud,Odontología,Abril,57,6.8,38,2.8
+Posta de Salud San Martín,Posta de Salud,Odontología,Mayo,28,10.9,15,4.4
+Posta de Salud San Martín,Posta de Salud,Odontología,Junio,29,11.4,15,3.9
+Posta de Salud San Martín,Posta de Salud,Odontología,Julio,46,16.7,23,4.0
+Posta de Salud San Martín,Posta de Salud,Odontología,Agosto,40,4.2,5,4.0
+Posta de Salud San Martín,Posta de Salud,Odontología,Septiembre,26,8.1,22,3.6
+Posta de Salud San Martín,Posta de Salud,Odontología,Octubre,32,7.5,20,4.7
+Posta de Salud San Martín,Posta de Salud,Odontología,Noviembre,23,10.8,31,4.0
+Posta de Salud San Martín,Posta de Salud,Odontología,Diciembre,34,12.2,24,4.4
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Enero,24,7.7,23,4.1
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Febrero,42,14.1,30,4.1
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Marzo,65,8.6,15,2.9
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Abril,45,13.2,18,3.1
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Mayo,59,14.1,29,3.0
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Junio,43,14.5,40,4.2
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Julio,50,4.2,17,3.9
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Agosto,39,10.6,16,4.6
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Septiembre,35,15.7,28,3.6
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Octubre,41,1.0,12,4.5
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Noviembre,33,1.7,31,3.0
+Posta de Salud San Martín,Posta de Salud,Medicina Interna,Diciembre,53,11.8,5,3.4
+Posta de Salud San Martín,Posta de Salud,Nutrición,Enero,55,12.9,18,3.9
+Posta de Salud San Martín,Posta de Salud,Nutrición,Febrero,38,8.8,27,4.7
+Posta de Salud San Martín,Posta de Salud,Nutrición,Marzo,40,19.9,33,2.9
+Posta de Salud San Martín,Posta de Salud,Nutrición,Abril,47,18.7,5,3.5
+Posta de Salud San Martín,Posta de Salud,Nutrición,Mayo,44,7.5,19,3.6
+Posta de Salud San Martín,Posta de Salud,Nutrición,Junio,30,11.0,13,3.7
+Posta de Salud San Martín,Posta de Salud,Nutrición,Julio,38,8.0,8,3.4
+Posta de Salud San Martín,Posta de Salud,Nutrición,Agosto,43,6.3,34,3.2
+Posta de Salud San Martín,Posta de Salud,Nutrición,Septiembre,57,10.2,12,3.4
+Posta de Salud San Martín,Posta de Salud,Nutrición,Octubre,43,12.3,7,3.8
+Posta de Salud San Martín,Posta de Salud,Nutrición,Noviembre,43,12.5,34,2.3
+Posta de Salud San Martín,Posta de Salud,Nutrición,Diciembre,36,8.5,24,4.9
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Enero,25,7.5,16,4.3
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Febrero,50,8.3,29,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Marzo,50,12.4,26,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Abril,31,7.3,25,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Mayo,30,10.9,25,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Junio,33,11.2,26,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Julio,49,12.8,8,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Agosto,37,19.9,18,4.7
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Septiembre,62,15.0,26,3.6
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Octubre,41,16.2,44,4.6
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Noviembre,32,18.6,12,4.9
+Posta de Salud Villa El Sol,Posta de Salud,Medicina General,Diciembre,52,14.7,5,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Enero,33,8.4,18,2.8
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Febrero,40,13.9,30,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Marzo,35,18.8,34,2.8
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Abril,45,17.0,11,4.4
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Mayo,37,10.1,5,4.6
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Junio,29,1.0,5,3.3
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Julio,25,18.8,6,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Agosto,39,14.5,5,2.6
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Septiembre,28,14.1,14,4.1
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Octubre,30,16.3,22,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Noviembre,44,13.2,21,2.9
+Posta de Salud Villa El Sol,Posta de Salud,Pediatría,Diciembre,42,11.0,24,3.9
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Enero,35,14.2,38,4.1
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Febrero,40,12.7,32,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Marzo,40,10.3,5,4.3
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Abril,49,10.6,18,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Mayo,58,11.8,43,4.7
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Junio,21,11.7,26,3.7
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Julio,50,14.0,26,3.7
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Agosto,22,14.0,7,4.3
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Septiembre,42,26.5,24,2.7
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Octubre,62,14.8,34,4.7
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Noviembre,31,7.2,30,3.2
+Posta de Salud Villa El Sol,Posta de Salud,Ginecología,Diciembre,22,8.8,17,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Enero,35,8.7,25,3.9
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Febrero,47,5.9,44,3.1
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Marzo,51,16.8,11,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Abril,35,15.4,31,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Mayo,42,8.8,29,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Junio,38,7.4,32,3.3
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Julio,35,8.5,24,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Agosto,27,9.8,13,4.4
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Septiembre,64,20.7,41,4.8
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Octubre,36,10.6,7,4.5
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Noviembre,43,7.9,27,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Odontología,Diciembre,50,11.4,14,3.9
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Enero,40,16.8,17,3.6
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Febrero,42,6.3,14,4.3
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Marzo,31,17.5,13,3.7
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Abril,45,12.7,5,2.9
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Mayo,42,7.2,16,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Junio,37,9.2,6,3.9
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Julio,63,7.3,5,3.6
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Agosto,51,10.6,18,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Septiembre,41,7.3,5,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Octubre,58,3.7,16,3.6
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Noviembre,35,12.7,11,4.3
+Posta de Salud Villa El Sol,Posta de Salud,Medicina Interna,Diciembre,31,4.9,17,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Enero,68,11.0,40,2.9
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Febrero,49,19.2,19,4.4
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Marzo,37,9.7,18,4.2
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Abril,21,19.2,17,3.5
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Mayo,51,13.2,51,3.1
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Junio,38,9.8,36,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Julio,25,1.0,5,3.8
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Agosto,31,17.9,5,3.7
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Septiembre,24,10.7,9,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Octubre,19,16.0,10,3.4
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Noviembre,32,8.7,33,4.4
+Posta de Salud Villa El Sol,Posta de Salud,Nutrición,Diciembre,40,6.0,19,3.4
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Enero,45,7.8,34,3.3
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Febrero,103,15.9,45,2.6
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Marzo,126,11.9,37,3.4
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Abril,122,1.0,28,4.1
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Mayo,76,8.6,23,3.8
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Junio,148,8.8,56,3.4
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Julio,140,13.9,18,3.1
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Agosto,116,5.6,15,3.5
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Septiembre,69,10.4,27,4.0
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Octubre,146,2.4,28,4.1
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Noviembre,193,11.3,35,3.3
+Centro de Salud Las Flores,Centro de Salud,Medicina General,Diciembre,186,9.1,39,4.2
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Enero,74,4.0,16,3.7
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Febrero,136,7.0,54,3.2
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Marzo,122,9.8,19,3.4
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Abril,108,3.7,30,3.0
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Mayo,141,5.0,17,3.1
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Junio,123,17.3,17,4.0
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Julio,134,8.9,40,4.0
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Agosto,97,1.0,33,3.4
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Septiembre,117,13.6,56,3.5
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Octubre,144,12.3,26,3.1
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Noviembre,72,1.0,38,4.0
+Centro de Salud Las Flores,Centro de Salud,Pediatría,Diciembre,91,15.2,34,3.7
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Enero,90,7.6,41,4.0
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Febrero,109,15.8,39,2.9
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Marzo,159,11.1,58,3.3
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Abril,54,14.9,55,3.6
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Mayo,125,22.7,47,4.2
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Junio,105,8.6,19,3.2
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Julio,116,14.5,57,4.7
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Agosto,128,13.1,40,3.7
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Septiembre,167,8.8,31,2.9
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Octubre,79,14.2,47,4.4
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Noviembre,149,7.3,57,4.1
+Centro de Salud Las Flores,Centro de Salud,Ginecología,Diciembre,110,12.2,24,3.4
+Centro de Salud Las Flores,Centro de Salud,Odontología,Enero,128,10.2,37,3.9
+Centro de Salud Las Flores,Centro de Salud,Odontología,Febrero,72,18.6,59,3.4
+Centro de Salud Las Flores,Centro de Salud,Odontología,Marzo,134,17.1,35,3.9
+Centro de Salud Las Flores,Centro de Salud,Odontología,Abril,100,9.8,38,4.6
+Centro de Salud Las Flores,Centro de Salud,Odontología,Mayo,125,17.2,39,3.8
+Centro de Salud Las Flores,Centro de Salud,Odontología,Junio,146,14.8,49,4.7
+Centro de Salud Las Flores,Centro de Salud,Odontología,Julio,136,14.8,47,3.6
+Centro de Salud Las Flores,Centro de Salud,Odontología,Agosto,115,16.8,22,2.8
+Centro de Salud Las Flores,Centro de Salud,Odontología,Septiembre,94,15.3,38,3.8
+Centro de Salud Las Flores,Centro de Salud,Odontología,Octubre,120,7.2,35,3.4
+Centro de Salud Las Flores,Centro de Salud,Odontología,Noviembre,149,12.1,43,4.1
+Centro de Salud Las Flores,Centro de Salud,Odontología,Diciembre,117,10.1,28,4.2
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Enero,139,7.4,31,4.0
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Febrero,122,16.8,37,4.6
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Marzo,101,14.8,31,3.3
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Abril,32,10.4,35,4.0
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Mayo,153,13.6,31,3.2
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Junio,105,13.4,14,3.0
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Julio,116,18.8,35,4.2
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Agosto,110,6.2,27,4.1
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Septiembre,102,11.8,37,4.9
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Octubre,160,2.8,19,4.2
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Noviembre,116,14.2,42,4.4
+Centro de Salud Las Flores,Centro de Salud,Medicina Interna,Diciembre,52,6.6,7,4.6
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Enero,120,9.7,34,4.3
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Febrero,124,4.1,40,4.5
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Marzo,106,13.0,22,4.8
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Abril,84,9.5,35,3.9
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Mayo,131,5.6,39,3.4
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Junio,117,13.4,25,2.1
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Julio,160,10.8,24,4.6
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Agosto,160,12.6,52,4.0
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Septiembre,105,9.7,46,3.8
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Octubre,94,12.9,40,3.6
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Noviembre,131,18.5,35,4.5
+Centro de Salud Las Flores,Centro de Salud,Nutrición,Diciembre,124,15.8,33,3.8
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Enero,79,13.2,5,3.3
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Febrero,95,7.9,47,3.1
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Marzo,118,13.4,43,4.1
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Abril,128,14.1,55,3.0
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Mayo,72,11.9,35,4.3
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Junio,118,17.0,10,3.4
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Julio,133,10.0,42,3.5
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Agosto,104,15.7,42,3.7
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Septiembre,161,9.8,38,2.3
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Octubre,141,18.9,41,3.4
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Noviembre,148,12.8,25,3.2
+Centro de Salud Miraflores,Centro de Salud,Medicina General,Diciembre,132,7.8,26,4.4
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Enero,141,17.6,28,4.1
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Febrero,179,10.7,27,4.2
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Marzo,137,5.3,40,4.3
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Abril,79,3.3,26,3.8
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Mayo,121,14.7,22,4.7
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Junio,174,14.4,30,3.5
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Julio,130,12.6,37,3.4
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Agosto,120,8.9,22,3.1
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Septiembre,75,15.9,17,3.6
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Octubre,121,14.4,29,4.2
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Noviembre,107,10.2,27,3.1
+Centro de Salud Miraflores,Centro de Salud,Pediatría,Diciembre,102,10.7,35,4.8
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Enero,69,9.0,23,4.2
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Febrero,145,9.9,25,4.3
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Marzo,119,3.4,26,3.8
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Abril,91,24.7,23,3.7
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Mayo,122,12.6,22,3.5
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Junio,126,14.9,42,3.8
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Julio,110,12.5,29,3.0
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Agosto,85,14.6,28,3.6
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Septiembre,139,9.8,27,4.5
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Octubre,102,3.8,26,3.8
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Noviembre,166,12.5,43,3.1
+Centro de Salud Miraflores,Centro de Salud,Ginecología,Diciembre,141,2.1,46,4.2
+Centro de Salud Miraflores,Centro de Salud,Odontología,Enero,184,13.0,42,3.7
+Centro de Salud Miraflores,Centro de Salud,Odontología,Febrero,97,12.9,47,3.0
+Centro de Salud Miraflores,Centro de Salud,Odontología,Marzo,136,20.3,18,2.7
+Centro de Salud Miraflores,Centro de Salud,Odontología,Abril,87,1.8,46,3.6
+Centro de Salud Miraflores,Centro de Salud,Odontología,Mayo,90,3.0,43,3.5
+Centro de Salud Miraflores,Centro de Salud,Odontología,Junio,119,13.0,55,3.4
+Centro de Salud Miraflores,Centro de Salud,Odontología,Julio,154,17.9,37,4.8
+Centro de Salud Miraflores,Centro de Salud,Odontología,Agosto,84,13.6,51,4.8
+Centro de Salud Miraflores,Centro de Salud,Odontología,Septiembre,149,17.4,14,3.9
+Centro de Salud Miraflores,Centro de Salud,Odontología,Octubre,128,10.1,19,3.5
+Centro de Salud Miraflores,Centro de Salud,Odontología,Noviembre,171,10.8,27,4.9
+Centro de Salud Miraflores,Centro de Salud,Odontología,Diciembre,148,12.1,43,2.9
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Enero,98,19.3,24,3.7
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Febrero,164,15.5,29,3.4
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Marzo,110,16.0,22,4.0
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Abril,143,14.5,35,2.8
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Mayo,140,19.1,47,3.8
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Junio,100,8.3,31,3.2
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Julio,66,1.2,23,3.8
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Agosto,145,21.7,43,4.2
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Septiembre,181,9.9,56,4.6
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Octubre,117,14.6,37,3.8
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Noviembre,147,12.9,42,4.0
+Centro de Salud Miraflores,Centro de Salud,Medicina Interna,Diciembre,119,7.8,48,4.1
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Enero,140,7.5,45,4.3
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Febrero,184,14.0,22,4.2
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Marzo,77,15.0,56,4.1
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Abril,86,15.2,26,3.5
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Mayo,74,10.8,38,4.4
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Junio,143,12.2,41,4.4
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Julio,118,10.2,34,3.1
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Agosto,140,21.5,26,4.0
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Septiembre,125,5.3,47,3.7
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Octubre,135,10.5,32,3.5
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Noviembre,164,12.6,28,3.9
+Centro de Salud Miraflores,Centro de Salud,Nutrición,Diciembre,129,14.7,34,3.7
+Centro de Salud San Juan,Centro de Salud,Medicina General,Enero,77,7.8,14,3.8
+Centro de Salud San Juan,Centro de Salud,Medicina General,Febrero,141,19.9,21,3.4
+Centro de Salud San Juan,Centro de Salud,Medicina General,Marzo,166,10.3,38,3.9
+Centro de Salud San Juan,Centro de Salud,Medicina General,Abril,83,10.3,53,4.2
+Centro de Salud San Juan,Centro de Salud,Medicina General,Mayo,174,13.6,24,4.0
+Centro de Salud San Juan,Centro de Salud,Medicina General,Junio,112,13.1,49,5.0
+Centro de Salud San Juan,Centro de Salud,Medicina General,Julio,128,9.4,41,4.0
+Centro de Salud San Juan,Centro de Salud,Medicina General,Agosto,117,9.7,30,3.6
+Centro de Salud San Juan,Centro de Salud,Medicina General,Septiembre,83,15.2,39,3.9
+Centro de Salud San Juan,Centro de Salud,Medicina General,Octubre,56,10.6,48,4.1
+Centro de Salud San Juan,Centro de Salud,Medicina General,Noviembre,93,10.7,42,3.6
+Centro de Salud San Juan,Centro de Salud,Medicina General,Diciembre,137,4.2,36,4.2
+Centro de Salud San Juan,Centro de Salud,Pediatría,Enero,66,15.1,25,3.4
+Centro de Salud San Juan,Centro de Salud,Pediatría,Febrero,101,10.7,40,3.5
+Centro de Salud San Juan,Centro de Salud,Pediatría,Marzo,95,12.3,35,3.8
+Centro de Salud San Juan,Centro de Salud,Pediatría,Abril,45,16.4,40,3.5
+Centro de Salud San Juan,Centro de Salud,Pediatría,Mayo,124,20.5,26,3.7
+Centro de Salud San Juan,Centro de Salud,Pediatría,Junio,140,8.4,41,3.1
+Centro de Salud San Juan,Centro de Salud,Pediatría,Julio,131,6.9,11,3.3
+Centro de Salud San Juan,Centro de Salud,Pediatría,Agosto,101,6.4,36,3.5
+Centro de Salud San Juan,Centro de Salud,Pediatría,Septiembre,167,9.8,37,3.9
+Centro de Salud San Juan,Centro de Salud,Pediatría,Octubre,88,15.1,46,3.8
+Centro de Salud San Juan,Centro de Salud,Pediatría,Noviembre,144,13.6,14,4.2
+Centro de Salud San Juan,Centro de Salud,Pediatría,Diciembre,36,12.1,20,2.7
+Centro de Salud San Juan,Centro de Salud,Ginecología,Enero,95,4.8,37,3.6
+Centro de Salud San Juan,Centro de Salud,Ginecología,Febrero,69,3.3,23,4.6
+Centro de Salud San Juan,Centro de Salud,Ginecología,Marzo,109,15.4,47,3.9
+Centro de Salud San Juan,Centro de Salud,Ginecología,Abril,111,14.4,46,4.3
+Centro de Salud San Juan,Centro de Salud,Ginecología,Mayo,74,7.6,28,4.7
+Centro de Salud San Juan,Centro de Salud,Ginecología,Junio,135,6.9,36,4.2
+Centro de Salud San Juan,Centro de Salud,Ginecología,Julio,130,14.7,37,4.0
+Centro de Salud San Juan,Centro de Salud,Ginecología,Agosto,86,16.1,37,4.1
+Centro de Salud San Juan,Centro de Salud,Ginecología,Septiembre,137,16.4,48,2.3
+Centro de Salud San Juan,Centro de Salud,Ginecología,Octubre,177,1.3,23,4.6
+Centro de Salud San Juan,Centro de Salud,Ginecología,Noviembre,134,17.4,51,3.5
+Centro de Salud San Juan,Centro de Salud,Ginecología,Diciembre,166,10.0,28,3.6
+Centro de Salud San Juan,Centro de Salud,Odontología,Enero,93,9.2,21,3.7
+Centro de Salud San Juan,Centro de Salud,Odontología,Febrero,91,6.6,44,3.9
+Centro de Salud San Juan,Centro de Salud,Odontología,Marzo,86,23.7,29,4.0
+Centro de Salud San Juan,Centro de Salud,Odontología,Abril,165,9.4,5,4.6
+Centro de Salud San Juan,Centro de Salud,Odontología,Mayo,205,16.1,16,4.5
+Centro de Salud San Juan,Centro de Salud,Odontología,Junio,125,14.5,25,2.9
+Centro de Salud San Juan,Centro de Salud,Odontología,Julio,97,9.6,38,2.9
+Centro de Salud San Juan,Centro de Salud,Odontología,Agosto,75,10.9,40,4.0
+Centro de Salud San Juan,Centro de Salud,Odontología,Septiembre,100,11.6,38,3.6
+Centro de Salud San Juan,Centro de Salud,Odontología,Octubre,61,12.4,35,3.7
+Centro de Salud San Juan,Centro de Salud,Odontología,Noviembre,130,13.1,35,4.6
+Centro de Salud San Juan,Centro de Salud,Odontología,Diciembre,94,13.4,27,3.1
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Enero,151,13.4,40,4.4
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Febrero,152,8.9,7,3.7
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Marzo,96,8.7,55,3.5
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Abril,108,15.7,34,3.3
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Mayo,179,6.3,41,4.0
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Junio,163,7.0,36,3.6
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Julio,75,11.4,30,4.0
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Agosto,107,10.4,49,4.9
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Septiembre,145,14.1,19,3.4
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Octubre,146,15.9,34,4.5
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Noviembre,90,6.7,20,4.2
+Centro de Salud San Juan,Centro de Salud,Medicina Interna,Diciembre,116,12.2,41,4.1
+Centro de Salud San Juan,Centro de Salud,Nutrición,Enero,70,12.8,49,3.9
+Centro de Salud San Juan,Centro de Salud,Nutrición,Febrero,123,23.6,24,3.8
+Centro de Salud San Juan,Centro de Salud,Nutrición,Marzo,109,13.6,27,3.8
+Centro de Salud San Juan,Centro de Salud,Nutrición,Abril,108,16.9,42,4.7
+Centro de Salud San Juan,Centro de Salud,Nutrición,Mayo,135,8.5,35,3.8
+Centro de Salud San Juan,Centro de Salud,Nutrición,Junio,103,18.3,25,3.7
+Centro de Salud San Juan,Centro de Salud,Nutrición,Julio,115,1.2,35,4.9
+Centro de Salud San Juan,Centro de Salud,Nutrición,Agosto,142,10.6,16,3.6
+Centro de Salud San Juan,Centro de Salud,Nutrición,Septiembre,167,10.0,26,3.0
+Centro de Salud San Juan,Centro de Salud,Nutrición,Octubre,116,10.3,46,3.7
+Centro de Salud San Juan,Centro de Salud,Nutrición,Noviembre,143,8.5,54,4.8
+Centro de Salud San Juan,Centro de Salud,Nutrición,Diciembre,98,11.7,52,4.0
+Hospital Regional del Norte,Hospital,Medicina General,Enero,349,13.0,42,3.8
+Hospital Regional del Norte,Hospital,Medicina General,Febrero,364,23.8,73,4.1
+Hospital Regional del Norte,Hospital,Medicina General,Marzo,340,16.3,71,4.1
+Hospital Regional del Norte,Hospital,Medicina General,Abril,403,12.3,62,4.2
+Hospital Regional del Norte,Hospital,Medicina General,Mayo,263,13.0,59,4.2
+Hospital Regional del Norte,Hospital,Medicina General,Junio,252,13.4,51,3.3
+Hospital Regional del Norte,Hospital,Medicina General,Julio,404,8.8,66,3.5
+Hospital Regional del Norte,Hospital,Medicina General,Agosto,279,8.5,46,3.5
+Hospital Regional del Norte,Hospital,Medicina General,Septiembre,296,4.1,60,3.6
+Hospital Regional del Norte,Hospital,Medicina General,Octubre,193,5.4,43,3.9
+Hospital Regional del Norte,Hospital,Medicina General,Noviembre,313,10.4,38,3.4
+Hospital Regional del Norte,Hospital,Medicina General,Diciembre,348,8.6,44,3.2
+Hospital Regional del Norte,Hospital,Pediatría,Enero,430,14.2,46,4.2
+Hospital Regional del Norte,Hospital,Pediatría,Febrero,180,13.1,43,2.2
+Hospital Regional del Norte,Hospital,Pediatría,Marzo,267,2.1,69,4.0
+Hospital Regional del Norte,Hospital,Pediatría,Abril,275,8.4,51,3.7
+Hospital Regional del Norte,Hospital,Pediatría,Mayo,272,15.5,62,3.8
+Hospital Regional del Norte,Hospital,Pediatría,Junio,220,3.9,37,4.8
+Hospital Regional del Norte,Hospital,Pediatría,Julio,306,16.6,43,3.8
+Hospital Regional del Norte,Hospital,Pediatría,Agosto,281,14.2,42,3.8
+Hospital Regional del Norte,Hospital,Pediatría,Septiembre,144,9.6,61,3.6
+Hospital Regional del Norte,Hospital,Pediatría,Octubre,264,9.5,68,4.0
+Hospital Regional del Norte,Hospital,Pediatría,Noviembre,201,12.2,66,4.0
+Hospital Regional del Norte,Hospital,Pediatría,Diciembre,253,7.2,58,3.6
+Hospital Regional del Norte,Hospital,Ginecología,Enero,299,10.1,47,3.2
+Hospital Regional del Norte,Hospital,Ginecología,Febrero,281,22.6,54,3.4
+Hospital Regional del Norte,Hospital,Ginecología,Marzo,314,16.9,48,4.7
+Hospital Regional del Norte,Hospital,Ginecología,Abril,399,9.5,71,3.7
+Hospital Regional del Norte,Hospital,Ginecología,Mayo,236,18.1,81,4.2
+Hospital Regional del Norte,Hospital,Ginecología,Junio,223,17.6,58,4.1
+Hospital Regional del Norte,Hospital,Ginecología,Julio,324,3.5,57,3.7
+Hospital Regional del Norte,Hospital,Ginecología,Agosto,189,4.3,27,3.1
+Hospital Regional del Norte,Hospital,Ginecología,Septiembre,216,8.9,67,3.3
+Hospital Regional del Norte,Hospital,Ginecología,Octubre,283,7.5,47,3.3
+Hospital Regional del Norte,Hospital,Ginecología,Noviembre,310,16.8,60,4.4
+Hospital Regional del Norte,Hospital,Ginecología,Diciembre,224,14.8,60,2.7
+Hospital Regional del Norte,Hospital,Odontología,Enero,277,18.2,79,3.6
+Hospital Regional del Norte,Hospital,Odontología,Febrero,178,15.9,55,3.9
+Hospital Regional del Norte,Hospital,Odontología,Marzo,253,19.5,57,4.8
+Hospital Regional del Norte,Hospital,Odontología,Abril,195,8.5,61,4.0
+Hospital Regional del Norte,Hospital,Odontología,Mayo,269,8.2,74,4.2
+Hospital Regional del Norte,Hospital,Odontología,Junio,333,10.0,45,2.7
+Hospital Regional del Norte,Hospital,Odontología,Julio,321,11.7,57,4.4
+Hospital Regional del Norte,Hospital,Odontología,Agosto,261,11.0,54,4.4
+Hospital Regional del Norte,Hospital,Odontología,Septiembre,209,10.1,53,4.5
+Hospital Regional del Norte,Hospital,Odontología,Octubre,128,10.6,50,3.9
+Hospital Regional del Norte,Hospital,Odontología,Noviembre,232,14.4,50,3.2
+Hospital Regional del Norte,Hospital,Odontología,Diciembre,317,16.6,55,3.7
+Hospital Regional del Norte,Hospital,Medicina Interna,Enero,191,7.0,48,2.9
+Hospital Regional del Norte,Hospital,Medicina Interna,Febrero,260,6.6,49,3.2
+Hospital Regional del Norte,Hospital,Medicina Interna,Marzo,313,14.3,59,3.5
+Hospital Regional del Norte,Hospital,Medicina Interna,Abril,305,11.8,47,4.4
+Hospital Regional del Norte,Hospital,Medicina Interna,Mayo,309,12.9,51,3.3
+Hospital Regional del Norte,Hospital,Medicina Interna,Junio,216,10.5,52,4.3
+Hospital Regional del Norte,Hospital,Medicina Interna,Julio,276,17.2,60,4.0
+Hospital Regional del Norte,Hospital,Medicina Interna,Agosto,214,9.6,41,3.6
+Hospital Regional del Norte,Hospital,Medicina Interna,Septiembre,196,19.9,57,4.4
+Hospital Regional del Norte,Hospital,Medicina Interna,Octubre,342,5.2,69,4.1
+Hospital Regional del Norte,Hospital,Medicina Interna,Noviembre,373,10.5,63,4.5
+Hospital Regional del Norte,Hospital,Medicina Interna,Diciembre,244,8.1,77,3.6
+Hospital Regional del Norte,Hospital,Nutrición,Enero,463,8.5,40,4.2
+Hospital Regional del Norte,Hospital,Nutrición,Febrero,277,8.5,59,2.7
+Hospital Regional del Norte,Hospital,Nutrición,Marzo,393,8.6,37,2.7
+Hospital Regional del Norte,Hospital,Nutrición,Abril,271,19.7,48,3.8
+Hospital Regional del Norte,Hospital,Nutrición,Mayo,357,8.4,65,3.0
+Hospital Regional del Norte,Hospital,Nutrición,Junio,239,8.3,34,5.0
+Hospital Regional del Norte,Hospital,Nutrición,Julio,252,11.0,47,3.8
+Hospital Regional del Norte,Hospital,Nutrición,Agosto,332,16.1,62,4.1
+Hospital Regional del Norte,Hospital,Nutrición,Septiembre,354,3.9,53,4.2
+Hospital Regional del Norte,Hospital,Nutrición,Octubre,182,7.5,22,4.2
+Hospital Regional del Norte,Hospital,Nutrición,Noviembre,228,10.1,60,3.0
+Hospital Regional del Norte,Hospital,Nutrición,Diciembre,300,11.8,54,4.3
+Hospital San José,Hospital,Medicina General,Enero,274,20.3,58,4.2
+Hospital San José,Hospital,Medicina General,Febrero,308,1.0,81,3.5
+Hospital San José,Hospital,Medicina General,Marzo,235,10.5,54,4.6
+Hospital San José,Hospital,Medicina General,Abril,256,17.1,32,3.8
+Hospital San José,Hospital,Medicina General,Mayo,295,19.9,88,3.7
+Hospital San José,Hospital,Medicina General,Junio,190,15.8,50,3.0
+Hospital San José,Hospital,Medicina General,Julio,169,6.2,56,4.1
+Hospital San José,Hospital,Medicina General,Agosto,312,12.7,57,3.4
+Hospital San José,Hospital,Medicina General,Septiembre,424,15.9,64,4.8
+Hospital San José,Hospital,Medicina General,Octubre,302,7.5,56,3.9
+Hospital San José,Hospital,Medicina General,Noviembre,276,6.7,25,3.6
+Hospital San José,Hospital,Medicina General,Diciembre,258,7.0,61,2.8
+Hospital San José,Hospital,Pediatría,Enero,245,20.1,58,2.9
+Hospital San José,Hospital,Pediatría,Febrero,273,12.3,48,3.3
+Hospital San José,Hospital,Pediatría,Marzo,365,10.5,76,4.0
+Hospital San José,Hospital,Pediatría,Abril,205,5.8,40,3.4
+Hospital San José,Hospital,Pediatría,Mayo,251,18.6,40,4.2
+Hospital San José,Hospital,Pediatría,Junio,173,8.3,73,3.6
+Hospital San José,Hospital,Pediatría,Julio,285,6.3,69,3.9
+Hospital San José,Hospital,Pediatría,Agosto,254,22.5,53,4.2
+Hospital San José,Hospital,Pediatría,Septiembre,238,20.9,39,3.2
+Hospital San José,Hospital,Pediatría,Octubre,319,17.8,60,4.1
+Hospital San José,Hospital,Pediatría,Noviembre,253,14.6,46,3.1
+Hospital San José,Hospital,Pediatría,Diciembre,198,15.8,72,3.7
+Hospital San José,Hospital,Ginecología,Enero,106,10.1,80,4.4
+Hospital San José,Hospital,Ginecología,Febrero,254,12.1,53,4.4
+Hospital San José,Hospital,Ginecología,Marzo,285,24.3,52,3.4
+Hospital San José,Hospital,Ginecología,Abril,324,13.7,58,4.2
+Hospital San José,Hospital,Ginecología,Mayo,294,8.2,40,2.8
+Hospital San José,Hospital,Ginecología,Junio,241,9.7,46,3.4
+Hospital San José,Hospital,Ginecología,Julio,310,19.7,52,4.3
+Hospital San José,Hospital,Ginecología,Agosto,338,13.2,35,3.8
+Hospital San José,Hospital,Ginecología,Septiembre,200,4.6,53,3.5
+Hospital San José,Hospital,Ginecología,Octubre,249,5.5,49,3.8
+Hospital San José,Hospital,Ginecología,Noviembre,328,12.1,42,3.2
+Hospital San José,Hospital,Ginecología,Diciembre,412,13.0,44,4.4
+Hospital San José,Hospital,Odontología,Enero,276,10.3,45,2.1
+Hospital San José,Hospital,Odontología,Febrero,257,7.2,46,4.2
+Hospital San José,Hospital,Odontología,Marzo,301,8.7,45,3.2
+Hospital San José,Hospital,Odontología,Abril,322,21.2,38,3.8
+Hospital San José,Hospital,Odontología,Mayo,343,3.7,50,4.4
+Hospital San José,Hospital,Odontología,Junio,385,15.7,53,4.2
+Hospital San José,Hospital,Odontología,Julio,294,15.9,39,3.0
+Hospital San José,Hospital,Odontología,Agosto,394,13.3,75,3.7
+Hospital San José,Hospital,Odontología,Septiembre,341,15.5,47,4.9
+Hospital San José,Hospital,Odontología,Octubre,240,10.2,76,5.0
+Hospital San José,Hospital,Odontología,Noviembre,228,10.8,27,3.0
+Hospital San José,Hospital,Odontología,Diciembre,366,15.0,47,3.9
+Hospital San José,Hospital,Medicina Interna,Enero,287,8.8,73,3.9
+Hospital San José,Hospital,Medicina Interna,Febrero,201,16.8,58,3.3
+Hospital San José,Hospital,Medicina Interna,Marzo,210,9.9,57,3.5
+Hospital San José,Hospital,Medicina Interna,Abril,346,17.3,51,2.7
+Hospital San José,Hospital,Medicina Interna,Mayo,247,9.0,72,4.0
+Hospital San José,Hospital,Medicina Interna,Junio,350,10.9,66,3.9
+Hospital San José,Hospital,Medicina Interna,Julio,265,15.2,46,4.5
+Hospital San José,Hospital,Medicina Interna,Agosto,207,13.0,36,3.6
+Hospital San José,Hospital,Medicina Interna,Septiembre,257,6.9,85,3.5
+Hospital San José,Hospital,Medicina Interna,Octubre,349,4.8,58,3.2
+Hospital San José,Hospital,Medicina Interna,Noviembre,350,16.4,62,4.4
+Hospital San José,Hospital,Medicina Interna,Diciembre,196,13.1,58,4.0
+Hospital San José,Hospital,Nutrición,Enero,353,25.8,48,4.2
+Hospital San José,Hospital,Nutrición,Febrero,321,14.1,41,4.3
+Hospital San José,Hospital,Nutrición,Marzo,359,13.4,64,3.8
+Hospital San José,Hospital,Nutrición,Abril,309,5.8,52,4.6
+Hospital San José,Hospital,Nutrición,Mayo,288,10.4,74,4.3
+Hospital San José,Hospital,Nutrición,Junio,226,8.6,60,3.7
+Hospital San José,Hospital,Nutrición,Julio,279,18.4,42,4.6
+Hospital San José,Hospital,Nutrición,Agosto,254,8.0,63,3.5
+Hospital San José,Hospital,Nutrición,Septiembre,167,21.7,59,3.7
+Hospital San José,Hospital,Nutrición,Octubre,299,20.2,66,3.3
+Hospital San José,Hospital,Nutrición,Noviembre,125,18.4,58,2.3
+Hospital San José,Hospital,Nutrición,Diciembre,167,12.9,45,4.0
